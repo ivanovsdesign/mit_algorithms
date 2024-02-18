@@ -1,0 +1,13 @@
+Linear search algorithm
+
+--- pseudocode
+
+Array(A, n)
+x = number
+
+for i = 1 to n
+    if A[i] == x
+        return i
+
+return nil
+
